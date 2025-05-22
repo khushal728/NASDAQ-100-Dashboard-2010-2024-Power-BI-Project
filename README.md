@@ -15,7 +15,7 @@ This project visualizes 14+ years of NASDAQ-100 stock market data using **Micros
 
 Watch the full dashboard walkthrough below 👇
 
-[▶️ Click to Watch Video](https://github.com/khushal728/NASDAQ-100-Dashboard-2010-2024-Power-BI-Project/blob/main/Nasdaq%20100%20Dashboard.mp4/view)
+[▶️ Click to Watch Video](https://github.com/khushal728/NASDAQ-100-Dashboard-2010-2024-Power-BI-Project/blob/main/Nasdaq%20100%20Dashboard.mp4)
 
 <!-- Replace the above link with your actual video URL -->
 
