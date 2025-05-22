@@ -22,7 +22,7 @@ Watch the full dashboard walkthrough below 👇
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](https://github.com/khushal728/NASDAQ-100-Dashboard-2010-2024-Power-BI-Project/issues/1#issue-3083157841)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/88137be4-1e72-4572-ab71-b5383745989d)
 
 ## 📌 Key Performance Indicators (KPIs)
 
