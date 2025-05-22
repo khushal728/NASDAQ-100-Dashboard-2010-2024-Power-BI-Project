@@ -11,6 +11,19 @@ This project visualizes 14+ years of NASDAQ-100 stock market data using **Micros
 - **Tools Used:** Power BI, DAX, Excel (for preprocessing), Power Query.
 
 ---
+## 📽️ Demo Video
+
+Watch the full dashboard walkthrough below 👇
+
+[▶️ Click to Watch Video](https://drive.google.com/file/d/your_google_drive_video_link_here/view)
+
+<!-- Replace the above link with your actual video URL -->
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](./assets/nasdaq_dashboard.png)
 
 ## 📌 Key Performance Indicators (KPIs)
 
